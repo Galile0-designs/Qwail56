@@ -4185,7 +4185,7 @@
     (property "Value" "EC11E" (at 57.15 190.5 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "qwail56:EC11E_reversible" (at 53.34 192.786 0)
+    (property "Footprint" "qwail56:Rotary_Encoder_EC11E_reversible" (at 53.34 192.786 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 190.246 0)

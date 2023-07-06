@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "qwail56")(type "KiCad")(uri "${KIPRJMOD}/qwail56.kicad_sym")(options "")(descr ""))
-)
